@@ -6,10 +6,8 @@ name: Daily pipeline
 on:
   workflow_dispatch: {}
   schedule:
-    # * is a special character in YAML so you have to quote this string
-    # Feel free to change this cron schedule
-    # Currently its scheduled for 1:25 pm UTC, Sun-Thurs
-    - cron:  '25 13 * * 0-4'
+    # Runs daily at 10:00 KST (01:00 UTC)
+    - cron:  '0 1 * * *'
 
 jobs:
   generate_and_send_digest:
@@ -32,6 +30,8 @@ jobs:
         SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
         FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
         TO_EMAIL: ${{ secrets.TO_EMAIL }}
+        SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        SLACK_CHANNEL: ${{ vars.SLACK_CHANNEL }}
     - name: Upload Artifact
       uses: actions/upload-artifact@v3
       with:
