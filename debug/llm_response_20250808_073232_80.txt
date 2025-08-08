@@ -1,0 +1,16 @@
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 autonomous driving의 규칙 추론과 플래닝에 초점을 두며 3D 비전 또는 diffusion/NeRF 관련 내용은 거의 없음.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "교육용 개인화와 generative AI에 관한 연구로 3D 비전·diffusion과 직접적 연관성이 없음.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "수학적 코드 생성 및 KG/LLM 관련으로 비전·3D 또는 diffusion 연구 관심사와 무관함.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "LLM 효율화(텍스트 모델) 관련 석사 연구로 3D 비전·diffusion과 직접적 연결 없음.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "지리공간 LLM 에이전트 연구로 spatial reasoning 관련성이 있으나 3D reconstruction/NeRF/ diffusion과 직접적 연결은 적음.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "툴-사용 데이터 생성 프레임워크로 LLM 데이터셋 방법론 중심이며 3D/비전·diffusion과 관련성 낮음.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "멀티모달 수학 추론용 보상모델 연구로 비전 요소가 있으나 3D 재구성·NeRF·Gaussian Splatting·diffusion과 직접적 연결이 약함.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 9, "Novelty score": 8, "Priority": "Must-read", "Reasons for match": "3D Gaussian Splatting의 sparse-view 재구성 개선을 다루며 depth/edge-aware regularization으로 novel-view synthesis와 geometry 정확도 향상에 직접적인 기여를 함.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 4, "Priority": "Low", "Reasons for match": "연합학습용 선택적 동형암호화 최적화로 시스템·보안 중심이며 3D 비전·diffusion과 직접 연관성 낮음.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "자동 채점과 semantic entropy 연구로 NLP/교육 분야 중심, 3D/diffusion과 무관함.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 4, "Priority": "Skim", "Reasons for match": "MLLM 기반의 세그멘테이션 경량 마스크 디코더로 비전적 요소가 있으나 주로 2D RES와 MLLM 통합에 집중되어 3D/NeRF/point cloud와는 거리가 있음.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "LTLf 합성 프레임워크로 형식적 방법론과 자동화에 관한 내용이며 3D 비전·diffusion 관련성 없음.", "Venue": "ECAI", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "LLM 파인튜닝의 over-memorization 현상 분석으로 NLP/학습 동적에 관한 연구이며 3D 비전·diffusion과 관련성 적음.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "Knowledge Graph Completion용 에이전트 기반 방법으로 KG/정보 추출에 초점, 3D/diffusion 연구 관심과 무관함.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "코드 생성 작업의 사용자 연구로 소프트웨어 엔지니어링·HCI 중심이며 3D 비전·diffusion과 관련 없음.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 4, "Priority": "Skim", "Reasons for match": "의료 이미지 분할용 상세/시맨틱 deep supervision으로 2D 이미지 분할 기법이지만 multi-scale supervision 아이디어가 3D/데이터 효율성 측면에서 일부 영감을 줄 수 있음.", "Venue": "", "Project page": ""}

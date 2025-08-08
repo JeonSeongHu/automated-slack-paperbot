@@ -1,0 +1,1 @@
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "동료검토 시스템의 보안/절차 문제를 다루며 CV/3D/VLM 연구 주제와 직접적 연관성이 거의 없습니다.", "Venue": "", "Project page": ""}

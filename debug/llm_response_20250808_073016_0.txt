@@ -1,0 +1,14 @@
+{"Relevancy score": 2, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 Text-to-Image 생성 모델의 안전성 우회를 위한 적대적 공격을 다루지만, 3D 비전이나 관련된 주제와는 연관성이 적다.", "Venue": "ICCV2025", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 모바일 GUI 에이전트를 위한 시스템을 제안하지만, 3D 비전이나 확산 모델과 관련이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 추천 시스템의 개인 정보 위험을 다루고 있지만, 3D 비전과는 관련이 없다.", "Venue": "ACM RecSys 2025", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 소셜 미디어에서 부동산 관련 사건을 식별하는 시스템을 소개하지만, 3D 비전 주제와는 연결이 없다.", "Venue": "ASONAM 2025", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 LLM의 대표성 편향을 조사하지만, 3D 비전 및 Computer Vision과는 무관하다.", "Venue": "AIES 2025", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 AI 위험에 대한 인간 훈련을 다루지만, 3D 비전이나 관련된 기술과는 관련이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 이론적 고에너지 물리학을 위한 LLM을 소개하지만, 3D 비전이나 컴퓨터 비전과의 연결 고리가 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 건강 보험 이해를 위한 법률 및 정책에 관한 코퍼스를 보완하지만, 3D 비전과는 관계없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 농업 질문응답 시스템을 다루고 있지만, 3D 비전과는 관련이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 멀티모달 비디오 감정 인식에 대한 연구지만, 3D 또는 CV 관련 주제를 다루지 않는다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 3, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 LLM 추론 효율성을 높이는 방법을 제안하지만, 3D 비전 주제와는 연결이 약하다.", "Venue": "ICDSNE 2025", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 Wikipedia 업데이트 방법론을 다루고 있으며 3D 비전이나 관련 비주얼 주제를 포함하지 않는다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 Chest X-ray의 진단을 위한 모델을 제안하지만, 3D 비전과는 관련이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 8, "Novelty score": 8, "Priority": "Must-read", "Reasons for match": "이 논문은 기존 Diffusion 모델을 사용하여 일관된 주제 생성을 위한 훈련 없는 접근 방식을 제안하며, 3D 비전에서의 주제 일관성과 관련될 수 있다.", "Venue

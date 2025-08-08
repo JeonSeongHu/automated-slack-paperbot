@@ -1,0 +1,16 @@
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 vision-language RL에 관한 것으로 multimodal agent와 시뮬레이터 일반화에 초점을 맞추며 3D 비전/NeRF/point cloud 등 연구 관심사와 직접적 연관성이 적습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "POMDP 합성 및 메모리 중심 RL 이론 연구로, 3D reconstruction이나 diffusion 모델 등 본인의 3D/CV 중심 관심사와는 거리가 있습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 3, "Novelty score": 3, "Priority": "Low", "Reasons for match": "새로운 optimizer 제안으로 딥러닝 일반에 관련되지만, 3D 비전·diffusion·NeRF 같은 구체적 도메인 최적화나 대규모 CV 효율화에 대한 직접적 적용성 언급이 부족합니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "PCA 기반 압축 기법은 모델 경량화 관점에서 유용할 수 있으나, 3D 비전·radiance fields·diffusion 모델 특화 연구와 직접 연결되지는 않습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "의료 LLM 벤치마크 평가 연구로 3D 비전·diffusion 관련 주제와 무관합니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "논문은 문헌 리뷰 구성요소 분류와 LLM 성능 평가에 집중하며 3D/CV·diffusion 모델 연구와 직접적 관련이 없습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "언어적 추론 및 불확실성 기반 방법론으로 3D 비전·NeRF·diffusion 모델 연구 범위와는 거리가 큽니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "토큰·시퀀스 수준 보상 설계는 NLP/LLM RL에 초점을 맞추고 있어 3D/CV·diffusion과 직접적 연관성이 적습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "멀티모달 호기심 기반 질문 생성은 멀티모달 추론에 기여하나, 3D 재구성·NeRF·point cloud 생성 등 핵심 관심사와 직접 연결되진 않습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "비디오 세그먼트의 주제적 중요도 추적은 멀티미디어 분석 관련이지만 3D 비전·diffusion·NeRF 관련 기법적 기여는 없습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "Omni-modal 게임 벤치마크는 멀티모달 에이전트 평가에 흥미로우나, 3D 재구성·novel view synthesis·Gaussian Splatting 등 구체적 3D 렌더링/생성 기법과의 직접적 연관성은 낮습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "귀(ear) 인식을 위한 그래프 기반 few-shot 접근으로 바이오메트릭스에 특화되어 있으며 3D/CV 생성·diffusion 연구와는 관련이 적습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "의식(Consciousness) 이론적 논의로 컴퓨터 비전·diffusion 모델 실용적 연구와는 거리가 멉니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "GUI visual grounding에 RL을 적용한 연구로 멀티모달 에이전트 관점에서 흥미로우나, 3D reconstruction·NeRF·diffusion 중심 연구와 직접적 연관성은 낮습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "팩트체킹 RAG 파이프라인으로 NLP·정보검색 중심이며 3D/CV·diffusion 주제와 관련이 없습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "교통 사고 내러티브 분류를 다루는 NLP 응용 연구로 3D 비전·diffusion 모델 관련성이 거의 없습니다.", "Venue": "", "Project page": ""}

@@ -1,0 +1,1 @@
+{"Relevancy score": 8, "Novelty score": 6, "Priority": "Must-read", "Reasons for match": "본 논문은 3D Gaussian Splatting의 하이퍼파라미터 자동화에 RL을 적용하여 3D 재구성 및 렌더링 품질을 향상시키므로 3D Vision 및 training efficiency와 직접적으로 연관된다.", "Venue": "", "Project page": ""}

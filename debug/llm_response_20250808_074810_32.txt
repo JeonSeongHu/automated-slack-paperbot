@@ -1,0 +1,1 @@
+{"Relevancy score": 3, "Novelty score": 3, "Priority": "Low", "Reasons for match": "도시철도 platform crowd estimation에 대한 CV 적용 사례로, object detection/ViT/segmentation 등 vision 기술을 사용하지만 3D/NeRF/representation/novel architectures 중심 연구와는 거리가 있다.", "Venue": "", "Project page": ""}

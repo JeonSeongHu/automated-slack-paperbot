@@ -1,0 +1,15 @@
+{"Relevancy score": 2, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 자율 주행과 관련된 비전 기술을 포함하고 있으나, 3D 비전이나 확산 모델과의 연결성이 부족합니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 AI 기반의 학습 콘텐츠 개인화에 집중하고 있어 3D 비전과는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 언어 모델과 관련된 수학적 추론에 대한 내용이지만, 3D 비전과의 연결점이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 대규모 언어 모델의 효율적인 개선을 다루고 있으며, 3D 비전과 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 지리적 문제에 대한 언어 모델의 적용이지만, 3D 비전과의 관련성이 낮습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 도구 사용 데이터셋 생성에 대한 새로운 접근방식을 제시하지만, 3D 비전과 큰 연관이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 다중 모달 언어 모델을 통한 수학적 추론에 집중하고 있으며 3D 비전과는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 8, "Novelty score": 9, "Priority": "Must-read", "Reasons for match": "이 연구는 3D Gaussian Splatting에 대한 새로운 정규화 기법을 제안하여 고품질의 3D 재구성을 달성하고 있어 매우 중요합니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 연합 학습에서의 동형 암호화와 관련되어 있으며, 3D 비전과의 연결성이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 AI 점수 부여 시스템에 대한 신뢰성을 높이는 방법을 다루고 있지만, 3D 비전과 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 다중 모달 대형 언어 모델을 통한 이미지 분할을 다루고 있으나, 3D 비전과의 연결점이 적습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 LTLf 합성에 대한 접근 방식을 다루고 있어 3D 비전과는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 3, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 연구는 언어 모델의 세분화된 학습 동역학에 대한 연구로, 비전 기술과의 직접적인 관련성이 적습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 지식 그래프 완성에 대한 에이전트 기반 접근 방식을 제안하나, 3D 비전과의 관련성이 낮습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 ChatGPT와의 상호

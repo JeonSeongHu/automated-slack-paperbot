@@ -1,0 +1,1 @@
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "본 논문은 social robotics와 개념 병목 모델에 초점을 맞추며 3D 비전, NeRF, diffusion과는 관련성이 거의 없습니다.", "Venue": "", "Project page": ""}

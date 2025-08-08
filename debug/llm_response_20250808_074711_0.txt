@@ -1,0 +1,1 @@
+{"Relevancy score": 3, "Novelty score": 5, "Priority": "Low", "Reasons for match": "T2I 모델의 안전성 우회 공격 연구로 CV/representation이나 VLM 방어 측면과 일부 관련되나, 주로 보안·adversarial 공격과 텍스트 프롬프트 공격에 집중되어 3D/NeRF/novel architectures와 직접적 연관성은 낮습니다.", "Venue": "ICCV 2025", "Project page": ""}

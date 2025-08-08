@@ -1,0 +1,15 @@
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 디지털 통신 시스템에 관한 것으로, 3D 비전과는 관련이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 대형 언어 모델의 내부 표현 수정에 관한 연구로, 3D 또는 컴퓨터 비전과 무관하다.", "Venue": "ECAI 2025", "Project page": ""}
+{"Relevancy score": 3, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 지리 인공지능에서 자연 특성을 감지하는 모델에 관한 연구로, 3D 비전과는 적은 연관이 있다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 도시 교통 시스템에 대한 데이터 분석을 다루고 있어, 3D 비전과의 관련성이 낮다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 언어 모델의 통신 방식에 대한 연구로, 3D 비전과는 크게 관련이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 4, "Novelty score": 5, "Priority": "Skim", "Reasons for match": "이 논문은 이미지 품질 평가를 위한 강화 학습 방법론을 소개하고, 비전 관련 성과를 높일 가능성이 있다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 기침 소리를 분석하는 인공지능 모델에 대한 연구로, 3D 비전과는 관련성이 낮다.", "Venue": "ISWC", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 AI의 자율적 결정 시스템과 관련된 관리 모델을 제안하며, 3D 비전과는 무관하다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 교육 시스템에서 LLM의 사용에 관한 법적 윤리를 다루고 있어, 3D 비전 연구와의 연관이 낮다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 대형 언어 모델의 정책 최적화에 관한 연구로, 3D 비전과는 관련이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 8, "Novelty score": 8, "Priority": "Must-read", "Reasons for match": "이 논문은 3D 전자기 산란 모델링에 대한 물리 기반 신경망을 제안하며, 물리적 일관성을 유지하면서도 효율성을 극대화하려는 접근이 3D 비전과 밀접하게 연관되어 있다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 4D STEM 데이터 분석을 위한 처리 프레임워크를 제안하여, 3D 비전과 약간의 연결은 있으나 본질적으로는 다름.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 핵융합 장치의 열 흐름 추정에 관한 것이며, 3D 비전과는 관계없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 다중 에이전트 경로 찾기에 관한 것이며, 3D 비전과는 큰 관련이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2

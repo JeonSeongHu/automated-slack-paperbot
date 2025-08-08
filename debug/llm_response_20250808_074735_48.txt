@@ -1,0 +1,16 @@
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "핵융합 장치의 물리 기반 PINN을 다루며 본인 연구의 CV/3D/비전-언어/NeRF 등과 직접적인 연관은 거의 없습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "멀티에이전트 경로 탐색(MAPF) 문제로 로봇/시뮬레이션 관련일 수 있으나 본인의 3D/비전·VLM 중심 연구와는 거리가 있습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "음악 감정 인식의 해석가능성 및 견고성 평가 연구로 표현학습 관련 일반적 관심은 있으나 본인의 CV/3D/NeRF/디퓨전 등 핵심 분야와 직접적 연관은 적습니다.", "Venue": "SMC-25", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "멀티모달 모델이긴 하나 토양 분류의 도메인 특화 응용으로, 멀티모달-VLM 방법론 관점에서 일부 참고 가능하나 핵심 관심분야와는 다릅니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 6, "Novelty score": 7, "Priority": "Skim", "Reasons for match": "VLM 기반의 human preference metric와 대규모 평가 데이터셋은 Vision-Language 및 평가/생성 모델 개선에 유용하여 이미지 생성·VLM 연구와 관련됩니다.", "Venue": "ICCV2025", "Project page": "https://hpsv3.homepage/"} 
+{"Relevancy score": 3, "Novelty score": 4, "Priority": "Low", "Reasons for match": "LLM의 attention 기반 traceback 기법은 주로 NLP/해석성 분야이며, VLM/비전 모델의 긴 컨텍스트 추적에서 간접적 영감을 줄 수 있습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "예측을 활용한 시설 위치 메커니즘 디자인은 경제/이론적 메커니즘 디자인 분야로 CV/3D/VLM 연구와 무관합니다.", "Venue": "IJCAI workshop", "Project page": ""} 
+{"Relevancy score": 5, "Novelty score": 6, "Priority": "Skim", "Reasons for match": "Bernoulli-LoRA는 PEFT/LoRA 이론 확장으로 대형 비전·VLM 모델의 효율적 적응(fine-tuning)에 직접적으로 관련됩니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 3, "Novelty score": 4, "Priority": "Low", "Reasons for match": "블랙박스 최적화(BO 대체)는 모델 기반 최적화·하이퍼파라미터 튜닝에 유용하나 본인의 핵심 CV/3D 주제와 직접적 연관성은 낮습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "대규모 다국어 위키피디아 코퍼스 구축은 NLP/정보 검색 중심이며 CV/3D·VLM 연구에 직접적 기여는 제한적입니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "LLM 워터마킹 기법은 텍스트 생성·보안 관련 주제로 VLM·비전 분야와는 간접적 연관만 있습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "프라이버시·공정성 bandits 연구로 이론적·응용적 가치는 있으나 CV/3D/VLM 주제와는 거리가 있습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "PDE surrogate 모델과 VAE 기반 분해 학습은 표현학습 관련 아이디어를 줄 수 있으나 본인의 주된 3D/NeRF/디퓨전 연구와 직접성은 낮습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 4, "Novelty score": 6, "Priority": "Skim", "Reasons for match": "대규모 DLRM의 2D sparse parallelism은 대형 모델 훈련·분산학습 및 효율성에 관한 실무적 기여로, 트레이닝 효율성 관심사와 연관됩니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "에이전트 런타임 거버넌스 프레임워크는 AI 거버넌스·안전성 중심이며 CV/3D·VLM 연구와 직접적 관련성은 적습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "LLM의 사실성 평가 리뷰는 NLP/LLM 신뢰성에 유용하나 비전·3D 중심 연구와의 직접적 연결성은 제한적입니다.", "Venue": "Artificial Intelligence Review (submitted)", "Project page": ""}

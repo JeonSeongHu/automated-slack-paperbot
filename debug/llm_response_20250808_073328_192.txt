@@ -1,0 +1,9 @@
+{"Relevancy score": 6, "Novelty score": 5, "Priority": "Skim", "Reasons for match": "영상 diffusion 모델의 경량화와 추론 효율화는 3D/novel-view synthesis나 렌더링 파이프라인에 적용 가능한 아이디어(모델 압축, 양자화)를 제공하므로 관련성이 있다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "LLM의 장기문맥 관리 연구로 3D 비전·Diffusion과 직접적 연관은 적지만 멀티모달 LLM과 결합된 경우 간접적 시사점이 있을 수 있다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "CS 학생들의 도구 사용 조사로 3D 비전, Diffusion, 또는 기술적 방법론과 직접적 관련이 거의 없다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "LLM continual learning 관점의 연구로 CV/3D 분야와 직접적 연결성은 낮지만 대규모 모델 유지관리라는 점에서 간접적 관심은 가능하다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "검색/정보검색 시스템 관련 연구로 3D 비전·Diffusion 연구 관심사와는 거리가 멀다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "다중 에이전트 로보틱스 연구로 실제 로봇 협업에 초점이 있으며, SLAM/SfM/3D 재구성 같은 핵심 관심사와 직접 연결되진 않는다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "LLM 개인화 기법 연구로 3D 비전/디퓨전 연구와는 주제적 연관성이 적다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "추론 실패 분석에 관한 언어모델 연구로, 3D 비전·Diffusion 직접 응용 가능성은 낮다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 3, "Novelty score": 3, "Priority": "Low", "Reasons for match": "Vision-Language agent의 자가학습 프레임워크로 멀티모달·비전 에이전트 관점에서 간접적 관심은 있으나 3D/reconstruction 또는 diffusion 핵심 주제와는 약하게 연결된다.", "Venue": "", "Project page": ""}

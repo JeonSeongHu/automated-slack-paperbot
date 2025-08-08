@@ -1,0 +1,1 @@
+{"Relevancy score": 3, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 멀티모달(오디오-비주얼) 세분화로 VLM/멀티모달 분야와 일부 교차되지만, 주 사용처가 비디오 오디오 분석이며 3D/NeRF/novel architectures 핵심 주제와는 거리가 있습니다.", "Venue": "", "Project page": ""}

@@ -1,0 +1,11 @@
+{"Relevancy score": 3, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 디지털 통신 시스템에 대한 접근을 다루고 있으며, 3D 비전이나 깊이 학습과의 직접적인 관련성이 부족하다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 연구는 대규모 언어 모델의 지식 편집에 관한 것으로, 3D 비전 및 컴퓨터 비전과의 연관성이 떨어진다.", "Venue": "ECAI 2025", "Project page": "this https URL"}
+{"Relevancy score": 4, "Novelty score": 4, "Priority": "Low", "Reasons for match": "이 논문은 지리 정보와 AI를 결합한 모델을 모집단에서는 자연 객체 탐지에 대한 내용을 다루지만, 3D 시각 관련 내용은 미비하다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 도시 교통 시스템을 이해하기 위한 인구 이동성을 다루고 있어, 비전과 직접적인 관련성이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 연구는 대규모 언어 모델의 통신 효율성을 높이는 방법에 관한 것으로, 3D 비전과는 관련이 적다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 5, "Novelty score": 5, "Priority": "Skim", "Reasons for match": "이 연구는 이미지 품질 평가에 대한 강화 학습 방법론을 다루며, 비전 분야에서의 응용 가능성이 있다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 기침 소리 분석을 다루고 있으며, 3D 비전이나 컴퓨터 비전과 명백한 연결성이 없다.", "Venue": "ISWC", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 AI 시스템의 법적, 윤리적 원칙을 논의하고 있으나, 3D 비전 및 관련 기술와는 관련이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "다수의 에이전트를 위한 경로 계획을 연구하는 논문으로, 3D 비전과 직접적인 관련성이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 음악 감정 인식을 위한 모델의 강건성에 대한 연구로, 3D 비전과 다소 떨어져 있다.", "Venue": "SMC-25", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 토양 지평선 분류에 관한 연구로, 3D 비전 기술과의 관련성이 부족하다.", "Venue": "", "Project page": ""}

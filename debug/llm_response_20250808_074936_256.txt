@@ -1,0 +1,1 @@
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 인공지능의 의식 문제와 철학적·이론적 프레임워크를 다루며, CV/3D/ VLM 연구와 직접적 연관성은 낮습니다.", "Venue": "", "Project page": ""}

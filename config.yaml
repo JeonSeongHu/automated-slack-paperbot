@@ -3,13 +3,13 @@ topic: "Computer Science"
 # An empty list here will include all categories in a topic
 # Use the natural language names of the topics, found here: https://arxiv.org
 # Including more categories will result in more calls to the large language model
-categories: ["Artificial Intelligence", "Computation and Language"]
+categories: ["Computer Vision and Pattern Recognition", "Artificial Intelligence", "Machine Learning", "Computation and Language"]
 
 # Relevance score threshold. abstracts that receive a score less than this from the large language model
 # will have their papers filtered out.
 #
 # Must be within 1-10
-threshold: 7
+threshold: 6
 
 # A natural language statement that the large language model will use to judge which papers are relevant 
 #
@@ -21,7 +21,58 @@ threshold: 7
 # This can be empty, which just return a full list of papers with no judgement or filtering,
 # in whatever order arXiv responds with.
 interest: |
-  1. Large language model pretraining and finetunings
-  2. Multimodal machine learning
-  3. Do not care about specific application, for example, information extraction, summarization, etc.
-  4. Not interested in paper focus on specific languages, e.g., Arabic, Chinese, etc.
+  1. Computer Vision and 3D Vision: 3D reconstruction, multi-view geometry, NeRF and radiance fields, Gaussian Splatting, novel view synthesis, SLAM/SfM/pose/depth/stereo, point clouds/meshes/rendering
+  2. Vision-Language Models (VLMs): multimodal learning, vision-text understanding, visual question answering, image captioning, visual reasoning, CLIP-like models  
+  3. Novel Architectures: new neural network designs, attention mechanisms, transformers for vision, efficient architectures, model compression
+  4. Representation Learning: self-supervised learning, contrastive learning, foundation models, pre-training strategies, feature learning, embedding methods
+  5. Diffusion Models: score-based generative modeling for images/3D, training/inference efficiency for CV/3D
+  6. Training Efficiency: optimization methods, distributed training, model scaling, few-shot learning, transfer learning
+
+# Prompt configuration for LLM evaluation
+prompt_config:
+  # Base prompt template file path (relative to src/ directory)
+  base_prompt_file: "relevancy_prompt.txt"
+  
+  # Researcher specialization and domain-specific instructions
+  researcher_profile:
+    specialization: "Computer Vision, 3D Vision, Vision-Language Models (VLMs), Novel Architectures, Representation Learning, and Deep Learning"
+    
+    high_priority_topics:
+      - "Computer Vision: 3D reconstruction, multi-view geometry, NeRF and radiance fields, Gaussian Splatting, novel view synthesis, SLAM/SfM/pose/depth/stereo, point clouds/meshes/rendering"
+      - "Diffusion Models: score-based generative modeling for images/3D, training/inference efficiency for CV/3D"
+      - "Vision-Language Models (VLMs): multimodal learning, vision-text understanding, visual question answering, image captioning, visual reasoning, CLIP-like models"
+      - "Novel Architectures: new neural network designs, attention mechanisms, transformers for vision, efficient architectures, model compression"
+      - "Representation Learning: self-supervised learning, contrastive learning, foundation models, pre-training strategies, feature learning, embedding methods"
+      - "Training Efficiency: optimization methods, distributed training, model scaling, few-shot learning, transfer learning"
+    
+    deprioritize_note: "Deprioritize purely theoretical ML, NLP-only, or domain-specific applications (medical, finance) unless they introduce novel CV/VLM/representation techniques."
+    
+    sota_bonus_note: "If the abstract/comments suggest SOTA (state-of-the-art) results (e.g., best accuracy, new benchmark high, surpassing prior methods), modestly increase both \"Novelty score\" and \"Priority\"."
+  
+  # Venue and publication quality hints
+  venue_config:
+    top_tier_venues:
+      - "ICCV"
+      - "CVPR" 
+      - "NeurIPS"
+      - "NIPS"
+      - "ICML"
+      - "AAAI"
+      - "ICLR"
+      - "ECCV"
+      - "SIGGRAPH"
+      - "KDD"
+      - "TPAMI"
+    
+    venue_bonus_note: "If the 'comments' mention a top-tier venue or provide a project page/code link (e.g., GitHub, personal site), modestly increase 'Novelty score' and consider raising 'Priority'. Do not overfit to venue names; only adjust if content and venue both support significance."
+  
+  # Output format specifications
+  output_format:
+    json_schema: |
+      {"Relevancy score": <1-10>, "Novelty score": <1-10>, "Priority": <Must-read|Skim|Low>, "Reasons for match": <한국어 1-2문장>, "Venue": <짧은 학회/저널명 또는 빈 문자열>, "Project page": <URL 또는 빈 문자열>}
+    
+    scoring_guidance: "score 1-10 conservatively; 7+ deserves close reading. Reasons must be in Korean."
+    
+    language_note: "이유는 모두 한국어로 작성해야 하며 (전문 용어는 영어 허용), 그 외에는 모두 영어로 작성하라."
+    
+    output_instructions: "Output ONE JSON OBJECT PER LINE, with EXACT keys. No extra text, no code fences, no numbering."

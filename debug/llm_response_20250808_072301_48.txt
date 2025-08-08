@@ -1,0 +1,15 @@
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 AI 코딩 보조 도구에 대한 안전성을 다루고 있으며, 3D 비전 및 컴퓨터 비전과 직접적인 관련성이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 NP-hard 문제 해결을 위한 알고리즘 설계에 관한 것이며, 컴퓨터 비전 연구와 관련성이 낮습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 맞춤형 뉴스 제목 생성을 위한 큰 언어 모델의 활용에 대해 설명하지만, 3D 비전과 연관이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 AI 소프트웨어 보조 도구의 취약점 발견 시스템을 언급하고 있으나, 3D 비전과는 무관합니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 3, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 공정성과 AUC 성능 사이의 균형을 다루고 있으나, 주 연구 관심과 직접적인 연결이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 3, "Novelty score": 4, "Priority": "Low", "Reasons for match": "이 논문은 비주얼 모터 정책 학습을 위한 데이터 생성 방법을 제시하지만, 3D 비전 분야와의 관련성이 부족합니다.", "Venue": "CoRL 2025", "Project page": "https://example.com"}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 의료 영상 세그멘테이션에 대한 정책 네트워크를 제안하지만, 3D 비전과는 적은 연관성을 가집니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 과학적 발견을 가속화하는 도구에 대해 설명하고 있으나, 3D 비전과의 연관성이 낮습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 시계열 데이터에서의 기호적 추론 능력에 대해 다루지만, 3D 비전 연구와는 관련성이 적습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 인간-인공지능 상호작용에 대해 서술하고 있으며, 3D 비전과는 간접적인 관련성이 있습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 LLM의 편향 및 공정성 문제를 다루고 있으나, 3D 비전과는 관련성이 적습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 자율적 감각 프레임워크를 다루지만, 3D 비전 시스템과 직접적인 연관성이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 고객 맞춤형 LP 모델에 관한 연구로, 3D 비전 및 컴퓨터 비전과 관련성이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 감정적 요인과 LLM의 안전성 문제를 다루고 있지만, 3D 비전 연구와는 무관합니다.", "Venue": "", "Project page": ""}
+{"Relev

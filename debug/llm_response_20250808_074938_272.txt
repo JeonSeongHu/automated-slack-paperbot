@@ -1,0 +1,1 @@
+{"Relevancy score": 6, "Novelty score": 4, "Priority": "Skim", "Reasons for match": "이 논문은 multimodal attention 기반 모델의 explainability를 체계적으로 정리하여 VLM의 해석가능성 연구에 도움이 됩니다; 그러나 주로 리뷰 논문이라 새 아키텍처나 3D/NeRF 관련 기여는 적습니다.", "Venue": "", "Project page": ""}

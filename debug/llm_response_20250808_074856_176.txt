@@ -1,0 +1,16 @@
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "본 논문은 CV/3D, VLM, 또는 novel architectures와 직접적 연관성이 거의 없고, 에너지/기상 예측 도메인 특화 연구입니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 5, "Novelty score": 6, "Priority": "Skim", "Reasons for match": "memes와 multimodal VLM 적용 및 태그 생성 모듈은 Vision-Language Models 및 멀티모달 표현 학습과 관련이 있어 VLM 응용 연구에 유용할 수 있습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "전력계통 최적화와 RL 기반 에너지 상업화에 집중되어 있어 본인의 CV/3D/ VLM 연구 관심과는 거리가 있습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 4, "Priority": "Low", "Reasons for match": "그래프 마이닝과 quasi-clique 발견에 관한 연구로, 본인의 3D 비전·VLM 중심 관심사와 직접적 연관성은 낮습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 6, "Novelty score": 6, "Priority": "Skim", "Reasons for match": "MLLM을 산업용 anomaly detection에 적응시키는 방법론으로, 멀티스테이지 추론과 reward 설계는 VLM/representation 적응 및 효율적 fine-tuning에 시사점이 있습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 3, "Novelty score": 5, "Priority": "Low", "Reasons for match": "저조도 이미지 향상은 컴퓨터 비전 관련이지만 본인의 고우선 3D/NeRF/ VLM 주제와는 직접적 연관성이 크지 않습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "음성 합성(TTS) 연구로 CV/3D/VLM 중심 관심사와 맞지 않습니다.", "Venue": "InterSpeech", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "질량분석 기반 분자 생성은 생물정보학/화학 도메인 특화로, 본인의 CV/3D/VLM 연구와 연관성이 거의 없습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 6, "Novelty score": 7, "Priority": "Skim", "Reasons for match": "대규모 ViT 아키텍처(Deeper ViT)와 안정화/이미지 생성 실험은 novel architectures 및 비전 트랜스포머 확장성 연구와 직접적으로 관련됩니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 7, "Novelty score": 8, "Priority": "Must-read", "Reasons for match": "MLLM의 hallucination을 causal 분석으로 해결하는 RL 기반 보상 설계는 VLM의 신뢰성·응답 정합성 개선에 중요한 기여를 할 가능성이 큽니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 4, "Novelty score": 5, "Priority": "Low", "Reasons for match": "Deep research 평가 벤치마크는 일반적인 LLM 평가 및 검색/추론과 관련되지만, CV/3D/NeRF 등의 핵심 관심사와 직접적 연관성은 제한적입니다.", "Venue": "", "Project page": "https://"} 
+{"Relevancy score": 5, "Novelty score": 6, "Priority": "Skim", "Reasons for match": "RPCA를 딥 네트워크로 풀어 sparse object segmentation에 적용한 연구로, 해석가능한 표현학습 및 segmentation 관련 솔루션으로 참고할 만합니다.", "Venue": "", "Project page": "https://"} 
+{"Relevancy score": 2, "Novelty score": 4, "Priority": "Low", "Reasons for match": "생의학 MLLM의 unlearning과 보안 벤치마크는 MLLM 안전성 측면에서 흥미롭지만 본인의 주된 CV/3D 연구 분야와는 거리가 있습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 5, "Novelty score": 6, "Priority": "Skim", "Reasons for match": "대안적 최적화(SAMT)와 훈련 효율성 개선은 대규모 비전/3D 모델 학습 효율화 관점에서 적용 가능성이 있어 주목할 가치가 있습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "paralinguistic speech dataset 및 TTS 파이프라인은 음성 연구 중심으로 CV/3D/VLM 주제와 직접적인 연관은 적습니다.", "Venue": "", "Project page": "https://"} 
+{"Relevancy score": 2, "Novelty score": 5, "Priority": "Low", "Reasons for match": "LLM 정렬(misalignment) 평가와 공격 시나리오 연구로 LLM 안전성에 기여하지만, CV/3D/NeRF 등 컴퓨터 비전 핵심 연구와는 직접적 관련성이 낮습니다.", "Venue": "", "Project page": ""}

@@ -1,0 +1,1 @@
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "핵융합 장치의 열전달 추정에 PINN을 적용한 공학적 연구로, CV/3D, VLM, novel architectures와 직접적인 관련성은 낮습니다.", "Venue": "", "Project page": ""}

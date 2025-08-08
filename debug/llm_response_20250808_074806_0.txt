@@ -1,0 +1,1 @@
+{"Relevancy score": 3, "Novelty score": 4, "Priority": "Skim", "Reasons for match": "이 논문은 generative T2I 모델의 보안 취약점(black-box prompt attack)을 다루며, diffusion/생성모델 공격 방어 관점에서 CV 생성 모델의 안전성에 관련되어 있음.", "Venue": "ICCV 2025", "Project page": ""}

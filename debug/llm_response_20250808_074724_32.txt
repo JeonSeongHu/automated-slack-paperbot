@@ -1,0 +1,1 @@
+{"Relevancy score": 3, "Novelty score": 3, "Priority": "Low", "Reasons for match": "도시철도 플랫폼 군중 추정은 일반적인 CV object detection/segmentation 기술을 사용하며, 3D/NeRF/VLM 등 핵심 관심사와 직접적 관련성은 낮습니다.", "Venue": "", "Project page": ""}

@@ -1,0 +1,13 @@
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 소셜 로봇과 그룹 내 상호작용을 중심으로 하며, 3D 비전이나 컴퓨터 비전과는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 대화형 검색 시스템에 대한 데이터 증대 방법을 제안하지만, 3D 비전과는 큰 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 대형 언어 모델의 정책 최적화에 중점을 두고 있으며, 3D 비전 분야와는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 음성 중심의 텍스트 생성을 다루며, 3D 혹은 컴퓨터 비전 주제와 관련이 없습니다.", "Venue": "UIST", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 메타 학습 기반 모델 편집을 다루며, 3D 시각화 및 컴퓨터 비전 관련성이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 AI 학회 리뷰 과정에서의 신원 도용 문제를 다루고 있으며, 비전 관련성이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 GUI 에이전트의 불확실성을 해결하는 방법을 제안하나, 컴퓨터 비전과 관련된 주제가 아닙니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 추천 시스템의 개선을 উদ্দেশ으로 하는데, 3D 비전과의 관련성이 적습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 딥 러닝 프레임워크 간의 비교를 다루고 있으며, 3D 관련 연구가 아닙니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 객체 재식별을 위한 도메인 적응에 관한 연구로, 3D 비전과는 큰 연관이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 컴퓨터 사용을 위한 자기 진화 에이전트의 제안을 다루고 있으며, 3D 비전과의 관계가 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 모션 센서에 관한 것으로, 3D 비전이나 컴퓨터 비전과는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 페더레이션 학습의 백도어 공격을 다루고 있으며, 3D 비전과는 관계가 없습니다.", "Venue": "", "Project page": ""}

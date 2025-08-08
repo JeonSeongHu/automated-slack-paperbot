@@ -1,0 +1,1 @@
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "본 논문은 통신 스펙트럼 수요 예측(시계열/공간)으로 CV/3D, VLM, 또는 novel architectures와 직접적 연관성이 거의 없습니다.", "Venue": "IEEE PIMRC 2025", "Project page": ""}

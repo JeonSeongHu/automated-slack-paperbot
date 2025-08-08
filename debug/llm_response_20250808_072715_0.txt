@@ -1,0 +1,14 @@
+{"Relevancy score": 4, "Novelty score": 4, "Priority": "Low", "Reasons for match": "이 논문은 T2I 모델의 안전성 문제를 다루고 있지만, 3D 비전 및 확산 모델과의 직접적인 연관성은 낮습니다.", "Venue": "ICCV2025", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 모바일 GUI 에이전트에 대한 내용으로, 3D 비전 및 컴퓨터 비전과의 관련성이 낮습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 추천 시스템의 개인 정보 보호 문제를 다루지만, 3D 비전 및 확산 모델과의 주요 연관성이 없습니다.", "Venue": "ACM RecSys 2025", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 소셜 미디어 데이터를 이용한 부동산 관련 이벤트 탐지에 관한 것으로, 3D 비전 및 컴퓨터 비전과의 연관성이 낮습니다.", "Venue": "ASONAM 2025", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 LLM의 편향 문제를 다루고 있으며, 3D 비전과의 직접적인 연관성이 없습니다.", "Venue": "AIES 2025", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 AI 위험에 대한 인식을 높이기 위한 프로토콜을 제안하지만, 3D 비전 및 컴퓨터 비전과의 관련성이 낮습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 하이 에너지 물리학을 위한 특화된 LLM을 다루며, 3D 비전과의 직접적인 연관성이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 건강 보험 관련 텍스트 코퍼스를 수집하는 연구로, 3D 비전 및 컴퓨터 비전과의 연결고리가 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 농업 관련 질문 응답 시스템을 개발하지만, 3D 비전 부분과의 연관성이 낮습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 4, "Novelty score": 4, "Priority": "Low", "Reasons for match": "이 논문은 다중 모달 비디오 감정 인식을 다루고 있지만, 3D 비전과의 관련성이 높지 않습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 6, "Novelty score": 6, "Priority": "Skim", "Reasons for match": "이 논문은 LLM 추론의 효율성을 개선하는 방법을 제안하나, 3D 비전과의 직접적인 연결성은 약합니다.", "Venue": "ICDSNE 2025", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 LLM 에이전트를 이용한 위키백과 업데이트에 대한 내용으로, 3D 비전과의 관련성이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 CXR 이미징을 위한 모델을 다루고 있으며, 3D 비전과의 관련성은 낮습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 5, "Novelty score": 6, "Priority": "Skim", "Reasons for match": "이 논문은 시각적 이야기를 생성하기 위한 방법을 다루며, 다소 관련성이

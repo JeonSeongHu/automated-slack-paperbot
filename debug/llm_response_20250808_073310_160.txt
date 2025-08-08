@@ -1,0 +1,1 @@
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 MLLM 기반 에이전트 전반을 다루는 survey로, 3D 비전·NeRF·diffusion 중심 연구와 직접적 관련성이 낮습니다.", "Venue": "ACL", "Project page": ""}

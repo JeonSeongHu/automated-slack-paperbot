@@ -1,0 +1,14 @@
+{"Relevancy score": 4, "Novelty score": 5, "Priority": "Low", "Reasons for match": "이 논문은 텍스트-이미지 생성 모델에 대한 공격 방법에 대한 연구로, 3D Vision이나 컴퓨터 비전과 직접적인 관련은 적습니다.", "Venue": "ICCV2025", "Project page": ""}
+{"Relevancy score": 3, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 모바일 GUI 에이전트에 대한 연구로, 3D Vision이나 관련된 기술과는 큰 연관이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 추천 시스템의 개인 정보 보호 문제를 다루고 있으며, 3D Vision과 직접적인 연관은 없습니다.", "Venue": "ACM RecSys 2025", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 소셜 미디어에서 부동산 관련 이벤트를 감지하는 시스템을 제안하나, 3D Vision과의 관련성은 낮습니다.", "Venue": "ASONAM 2025", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 언어 모델의 편향을 연구하지만, 3D Vision과는 관련이 없습니다.", "Venue": "AIES 2025", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 AI 위험에 대한 인식 교육 프로토콜을 제안하지만, 컴퓨터 비전이나 3D 기술과의 연관성은 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 고에너지 물리학을 위한 특수화된 LLM에 대한 연구로, 3D Vision과는 연관성이 적습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 건강 보험 관련 텍스트를 수집하고 모델을 제안하지만 3D Vision과의 관련성은 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 농업 관련 대화형 AI를 제안하지만, 3D Vision이나 컴퓨터 비전 기술과는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 3, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 멀티모달 감정 인식에 관한 연구로, 컴퓨터 비전 분야와의 관련성이 낮습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 5, "Novelty score": 6, "Priority": "Skim", "Reasons for match": "이 논문은 LLM의 추론 효율성을 높이기 위한 새로운 접근을 제안하지만, 3D Vision과의 연결점이 적습니다.", "Venue": "ICDSNE 2025", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 LLM 에이전트를 통한 위키피디아 업데이트 연구로, 3D Vision과의 연관성이 낮습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 흉부 X-선 분석을 위한 모델을 제안하였으나, 3D Vision과의 명확한 관련은 부족합니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 5, "Novelty score": 6, "Priority": "Skim", "Reasons for match": "이 논문은 텍스트-이미지 생성의 일관성을 높이기 위한 방법론을 제안하여, 컴퓨터 비전 기술에 부분적으로 관련이 있습니다.", "Venue": "

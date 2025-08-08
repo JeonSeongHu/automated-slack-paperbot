@@ -1,0 +1,16 @@
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "본 논문은 LLM 협력과 MARL 중심으로, CV/3D/NeRF 등 연구 관심사와 직접적인 관련성이 적습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 8, "Novelty score": 8, "Priority": "Must-read", "Reasons for match": "SAM을 확장해 MLLM의 픽셀 수준 분할 능력을 강화하고 통합 학습 전략을 제시하여 VLM/멀티모달 및 세분화 관련 연구에 직접적인 기여를 합니다.", "Venue": "Technical Report", "Project page": "https://github.com/"} 
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "가금류 질병 검출 응용 연구로 CV 방법론은 사용되지만 본문의 도메인 특화적 적용이라 주요 연구 관심사와 거리가 큽니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 9, "Novelty score": 8, "Priority": "Must-read", "Reasons for match": "multi-view feature-metric alignment 기반의 3D 실내 레이아웃 추정으로 multi-view/3D 재구성·표현학습 및 최적화 기반 방법론에 직접 연관됩니다.", "Venue": "ICCV Workshop", "Project page": "https://github.com/"} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "언어모델 프로그램 최적화 및 GRPO 확장에 초점, CV/3D/NeRF 등 시각 분야와의 직접적 연관성은 적습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 6, "Novelty score": 7, "Priority": "Skim", "Reasons for match": "대규모 diffusion 모델의 구조적 압축 및 블록별 민감도 분석은 3D/이미지 생성 및 효율화(특히 diffusion 기반 3D 합성)에 응용될 여지가 있습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "LLM의 컨텍스트 관리 기법으로 주로 NLP/모델 인터랙션에 해당하며 CV/3D 핵심 연구와 직접적 관련성은 낮습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "bioacoustics 분야의 음향 모델로, CV·3D·VLM 연구 관심사와 전형적으로 겹치지 않습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "학생들의 AI 도구 사용에 대한 설문조사 연구로 CV/3D 기술적 기여는 거의 없습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "통계학적 단일지수 모델 학습 이론에 관한 연구로, CV/3D/NeRF 응용보다는 이론적 ML 성격이 강합니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "LLM 지속학습 및 리플레이 기법에 관한 연구로 VLM·CV 응용과는 간접적 관련만 있습니다.", "Venue": "", "Project page": "https://github.com/"} 
+{"Relevancy score": 7, "Novelty score": 7, "Priority": "Skim", "Reasons for match": "VLM 프롬프트 튜닝의 견고성 향상을 다루어 Vision-Language 모델의 일반화 및 견고성 연구에 직접적으로 기여합니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 8, "Novelty score": 8, "Priority": "Must-read", "Reasons for match": "대규모 에고센트릭 멀티모달 데이터셋과 행동·객체 상호작용 벤치마크는 3D/비전-언어 및 행동 예측 연구에 중요한 리소스를 제공합니다.", "Venue": "ICCV", "Project page": "https://github.com/"} 
+{"Relevancy score": 6, "Novelty score": 6, "Priority": "Skim", "Reasons for match": "멀티에이전트 시공간 프리트레인과 균형적 멀티태스크 학습은 멀티-뷰·다중 에이전트 perception/prediction 시스템 설계에 유용합니다.", "Venue": "ICCV", "Project page": ""} 
+{"Relevancy score": 3, "Novelty score": 3, "Priority": "Low", "Reasons for match": "검색 관련 QAM은 주로 정보검색·NLP 응용이며 CV/3D 연구 관심사와 직접적 연관성은 낮습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 5, "Novelty score": 5, "Priority": "Skim", "Reasons for match": "실시간 얼굴 애니메이션과 3D 리깅·표정 전달 기술은 3D 표현 및 실시간 렌더링 파이프라인에 유용할 수 있습니다.", "Venue": "IEEE VR", "Project page": ""}

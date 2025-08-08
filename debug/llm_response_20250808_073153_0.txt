@@ -1,0 +1,1 @@
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 text-to-image 안전성 공격(black-box prompt attack)에 초점을 맞추며, diffusion/3D vision 및 NeRF와 직접적 연관은 적습니다.", "Venue": "ICCV 2025", "Project page": ""}

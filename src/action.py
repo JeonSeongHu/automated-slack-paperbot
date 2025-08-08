@@ -8,6 +8,8 @@ import yaml
 import os
 from dotenv import load_dotenv
 import openai
+from bs4 import BeautifulSoup
+from slack_sdk import WebClient
 from relevancy import generate_relevance_score, process_subject_fields
 from download_new_papers import get_papers
 
@@ -221,7 +223,7 @@ category_map = {
 }
 
 
-def generate_body(topic, categories, interest, threshold):
+def generate_body(topic, categories, interest, threshold, config_path="config.yaml"):
     if topic == "Physics":
         raise RuntimeError("You must choose a physics subtopic.")
     elif topic in physics_topics:
@@ -248,6 +250,7 @@ def generate_body(topic, categories, interest, threshold):
             query={"interest": interest},
             threshold_score=threshold,
             num_paper_in_prompt=16,
+            config_path=config_path,
         )
         body = "<br><br>".join(
             [
@@ -260,6 +263,7 @@ def generate_body(topic, categories, interest, threshold):
                 "Warning: the model hallucinated some papers. We have tried to remove them, but the scores may not be accurate.<br><br>"
                 + body
             )
+        return body, relevancy, hallucination
     else:
         body = "<br><br>".join(
             [
@@ -267,7 +271,7 @@ def generate_body(topic, categories, interest, threshold):
                 for paper in papers
             ]
         )
-    return body
+        return body, [], False
 
 
 if __name__ == "__main__":
@@ -291,9 +295,74 @@ if __name__ == "__main__":
     to_email = os.environ.get("TO_EMAIL")
     threshold = config["threshold"]
     interest = config["interest"]
-    body = generate_body(topic, categories, interest, threshold)
+    body, selected_list, hallucination = generate_body(topic, categories, interest, threshold, args.config)
+    # Fallback: if body is empty but we have selected_list, synthesize HTML
+    if (not body or body.strip() == "") and selected_list:
+        rows = []
+        for p in selected_list:
+            rows.append(
+                f'<div><b><a href="{p.get("main_page", "#")}">{p.get("title", "")}</a></b><br/>'
+                f'Authors: {p.get("authors", "")}<br/>'
+                f'Score: {p.get("Relevancy score", "?")} / Novelty: {p.get("Novelty score", "?")} / Priority: {p.get("Priority", "")}<br/>'
+                f'Reason: {p.get("Reasons for match", "")}<br/></div><hr/>'
+            )
+        body = "\n".join(rows)
     with open("digest.html", "w") as f:
-        f.write(body)
+        f.write(body or "")
+    # Save structured selection for downstream usage
+    if selected_list:
+        import json
+        with open("digest.json", "w") as jf:
+            json.dump(selected_list, jf)
+    # Optional Slack notification via Slack Web API (Bot Token)
+    slack_bot_token = os.environ.get("SLACK_BOT_TOKEN")
+    slack_channel = os.environ.get("SLACK_CHANNEL")
+    if slack_bot_token and slack_channel and selected_list:
+        # Sort by rating desc, plain-text summary message (no Block Kit)
+        sorted_items = sorted(selected_list, key=lambda x: int(x.get("Relevancy score", 0)), reverse=True)
+        top_k = int(os.environ.get("SLACK_TOP_K", "30"))
+        picked = sorted_items[:top_k]
+
+        def _t(text: str, limit: int) -> str:
+            if not text:
+                return ""
+            s = text.strip().replace("\n", " ")
+            return s if len(s) <= limit else s[: limit - 1] + "…"
+
+        lines = []
+        lines.append(f"arXiv Digest (KST) - {date.today().strftime('%Y-%m-%d')}")
+        lines.append("Focus: 3D Vision, Diffusion, Deep Learning, Computer Vision")
+        lines.append(f"Items: {len(picked)} (sorted by rating)")
+        lines.append("")
+        for idx, paper in enumerate(picked, start=1):
+            title = paper.get("title", "").strip()
+            link = paper.get("main_page", "").strip()
+            authors = paper.get("authors", "").strip()
+            authors_short = ", ".join([a.strip() for a in authors.split(",")][:3])
+            rel = paper.get("Relevancy score", "?")
+            nov = paper.get("Novelty score", "?")
+            pri = paper.get("Priority", "Skim")
+            # Always prefer Korean reasons; if English, 그대로 출력되지만 프롬프트로 한국어를 강제해 둠
+            reason = _t(paper.get("Reasons for match", ""), 220)
+            abstract = _t(paper.get("abstract", ""), 220)
+            venue = paper.get("Venue", "")
+            proj = paper.get("Project page", "") or paper.get("project_url", "")
+            lines.append(f"{idx}. <{link}|{title}>")
+            lines.append(f"   R {rel}/10 | N {nov}/10 | P {pri} | {authors_short}")
+            if venue:
+                lines.append(f"   Venue: {venue}")
+            if proj:
+                lines.append(f"   Project: {proj}")
+            lines.append(f"   이유: {reason}")
+            lines.append(f"   Abs: {abstract}")
+            lines.append("")
+
+        client = WebClient(token=slack_bot_token)
+        resp = client.chat_postMessage(channel=slack_channel, text="\n".join(lines))
+        ok = resp.get("ok", False)
+        ch = resp.get("channel", "")
+        ts = resp.get("ts", "")
+        print(f"Slack notification: ok={ok} channel={ch} ts={ts}")
     if os.environ.get("SENDGRID_API_KEY", None):
         sg = SendGridAPIClient(api_key=os.environ.get("SENDGRID_API_KEY"))
         from_email = Email(from_email)  # Change to your verified sender

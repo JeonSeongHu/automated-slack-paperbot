@@ -1,0 +1,12 @@
+{"Relevancy score": 3, "Novelty score": 5, "Priority": "Low", "Reasons for match": "이 논문은 이미지 전송을 위한 채널 적응 디지털 의미 통신 시스템에 대한 것입니다. 본 연구는 CV/3D 관련 주제를 다루고 있지 않습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 대규모 언어 모델의 지식 편집에 대한 것이며, 3D 비전 및 컴퓨터 비전과는 관련이 없습니다.", "Venue": "ECAI 2025", "Project page": "this https URL"}
+{"Relevancy score": 4, "Novelty score": 5, "Priority": "Low", "Reasons for match": "이 논문은 약한 감독 하에 지형 특징 탐지를 위한 딥러닝 모델을 소개하며, CV 분야의 연구를 다루지만 3D 비전과의 연결은 약합니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 4, "Priority": "Low", "Reasons for match": "이 논문은 도시 교통 시스템의 이동성 주기 분석에 대한 연구로, 3D 비전 및 관련 주제와의 연관성이 낮습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 3, "Novelty score": 4, "Priority": "Low", "Reasons for match": "이 연구는 LLM의 통신을 효율적으로 개선하는 방안에 대해 다루고 있으며, 비전 관련 주제와는 거리가 있습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 5, "Novelty score": 6, "Priority": "Skim", "Reasons for match": "이 논문은 이미지 품질 평가를 위한 강화학습 방식을 다루고 있으며, 비전 분야의 중소 주제를 포함하고 있습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 기침 소리 표현 학습에 대한 것으로, 3D 비전 및 이미지 생성과는 관련이 없습니다.", "Venue": "ISWC", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 기업 이사회의 관리 시스템에 대한 것으로, 비전 및 3D와의 연관성은 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 교육에서 LLM 사용에 대한 법적 고려사항을 다루고 있으며, 3D 비전 및 CV와 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 연구는 다중 에이전트 경로 찾기 문제에 대한 것으로, 3D 비전 및 관련 주제를 포함하지 않습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 연구는 음악 감정 인식을 위한 해석 가능한 모델의 강건성에 대한 것이며, 3D 및 CV와는 무관합니다.", "Venue": "SMC-25", "Project page": ""}
+{"Relevancy score": 3, "Novelty score": 4, "Priority": "Low", "Reasons for match": "이 연구는 토양 지평 분류를 위한 다중모드 다중작업 모델을 제안하며, CV와의 직접적인 관련성은 낮습니다.", "Venue": "", "Project page": ""}

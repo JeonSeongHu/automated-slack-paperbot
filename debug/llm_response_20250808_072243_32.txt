@@ -1,0 +1,15 @@
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 언어 모델 및 LLM에 관한 것이며, 3D 비전이나 컴퓨터 비전과 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "시설 위치 문제와 관련된 메커니즘 설계에 대한 논문으로, 3D 비전과는 관련이 없습니다.", "Venue": "Proceedings of IJCAI 2025 workshop on Computational Fair Division", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 1, "Priority": "Low", "Reasons for match": "다국어 데이터셋에 관한 연구지만, 3D 비전이나 딥 러닝과는 연결되지 않습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "대규모 언어 모델에 대한 워터마킹 기법을 다루지만 3D 비전과는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "매개변수가 있는 비선형 편미분 방정식에 대한 서포트 모델에 대한 내용으로, 3D 비전 관련 주제가 아닙니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "에이전트 AI 시스템의 거버넌스를 다루고 있어 3D 비전 및 이미지 생성 모델과는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 3, "Novelty score": 2, "Priority": "Low", "Reasons for match": "대규모 언어 모델의 사실성 평가에 대한 검토이지만 3D 비전 주제와는 차별화된 연결이 없습니다.", "Venue": "Artificial Intelligence Review", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "다중 에이전트 시스템(MAS) 내에서의 안전성에 관한 연구이지만 컴퓨터 비전과는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 1, "Priority": "Low", "Reasons for match": "질문 답변 시스템에서의 엔티티 링크에 대한 논문이지만 3D 비전 영역과는 무관합니다.", "Venue": "AAAI 2026 Conference", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "시뮬레이션 및 사이버 보안 관련 연구로, 3D 비전 및 딥 러닝과는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "포도 생리학 예측을 위한 다중 작업 학습에 대한 논문으로, 3D 비전과는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 1, "Priority": "Low", "Reasons for match": "사회적 지능을 위한 보상 설계를 다루고 있지만 3D 비전 및 이미지 생성과는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "거리 기반 분류기의 설명 가능성을 다루는 논문으로, 3D 비전과는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 6, "Novelty score": 5, "Priority": "Skim", "Reasons for match": "딥 러닝 모델을 사용한 분화구 탐지에 관한 연구로, 3D 비전 기술의 응용을 포함합니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이상 탐지를 위한 능동적 학습 및 전이 학습

@@ -1,0 +1,1 @@
+{"Relevancy score": 3, "Novelty score": 3, "Priority": "Low", "Reasons for match": "트랜스포머의 in-context 학습과 알고리즘 학습 능력에 관한 연구로, 비전·3D나 VLM 아키텍처 직접 관련성은 낮습니다.", "Venue": "Gretsi 2025", "Project page": ""}

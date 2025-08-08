@@ -1,0 +1,1 @@
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 GUI 에이전트와 코드 실행을 결합한 자동화 시스템으로, 3D Vision·Diffusion·NeRF 등 핵심 관심사와 직접적 연관은 적습니다.", "Venue": "", "Project page": ""}

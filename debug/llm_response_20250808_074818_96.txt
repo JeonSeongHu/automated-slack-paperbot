@@ -1,0 +1,1 @@
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "IMU 기반 센서 데이터와 multimodal contrastive learning을 사용하지만 주제가 주로 센서 프라이버시와 activity sanitization으로, CV/3D·VLM 핵심 관심사와는 거리가 있습니다.", "Venue": "", "Project page": ""}

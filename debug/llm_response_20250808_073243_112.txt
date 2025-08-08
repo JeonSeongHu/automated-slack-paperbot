@@ -1,0 +1,16 @@
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 NLP의 계층적 텍스트 분류와 LLM 프롬프트 전략에 초점을 맞추며 3D Vision, NeRF, diffusion 모델과 직접적 관련이 거의 없습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "오프라인 강화학습의 대칭적 발산 도입에 관한 연구로, 컴퓨터 비전의 3D 재구성이나 diffusion 모델과는 관련성이 낮습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 5, "Priority": "Low", "Reasons for match": "비디오 생성과 multi-object trajectory 제어는 시각적 생성에 관련되지만 본문은 2D 텍스트→비디오 T2V에 집중되어 3D Vision/NeRF/point cloud 관련성은 제한적입니다.", "Venue": "", "Project page": "this https URL"} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "Time series forecasting과 AutoML에 관한 연구로, 3D Vision 또는 diffusion 모델과의 연관성이 거의 없습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 4, "Priority": "Low", "Reasons for match": "회로 SAT 해결을 위한 GNN 기반 접근법으로 컴퓨터 비전의 3D 재구성이나 NeRF/확산모델과는 직접적 연관이 없습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "텍스트와 수치 시계열 통합을 다루는 모델로, 3D Vision·diffusion·NeRF 등 연구 관심사와는 관련이 적습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "의료 영상(초음파)에서 각도 추정에 관한 딥러닝 응용으로 영상처리 관련이 있으나 3D 재구성, NeRF, diffusion 모델 등 핵심 관심 분야와는 거리가 있습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "우울증 진단용 대화형 LLM 페르소나 연구로 의료 NLP에 가깝고 3D Vision/확산모델 관련성은 거의 없습니다.", "Venue": "CIKM", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "그래프 표현학습과 루머 탐지 연구로 시각 3D/NeRF/점군/확산모델과 직접적 관련이 없습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "LLM KV-cache 양자화와 attention sink 분석으로 NLP 모델 최적화에 해당하며 3D Vision·diffusion 연구와는 연관성이 낮습니다.", "Venue": "COLM", "Project page": ""} 
+{"Relevancy score": 3, "Novelty score": 4, "Priority": "Skim", "Reasons for match": "SAM 기반 세분화와 차량 파트 분할, 대규모 VehicleSeg10K 데이터셋 제시는 컴퓨터 비전과 이미지/세그먼트 관련성이 있어 3D 차량 파트 재구성이나 multi-view 응용으로 확장 가능성이 있습니다.", "Venue": "", "Project page": "this https URL"} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "연합학습의 gradient leakage 방어 연구로 보안/프라이버시 중심이며 3D Vision·diffusion 관련성은 낮습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "전자상거래 에이전트 및 쇼핑 벤치마크 연구로 비전 중심(특히 3D/NeRF/확산) 관심사와는 거리가 있습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "모델 설명을 위한 시각적 도구로 일반 ML 해석성에 관한 작업이며 3D Vision·diffusion 관련 내용은 적습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "GraphRAG의 지식 중독 공격 연구로 보안·NLP 중심이며 3D/NeRF/확산 모델과 직접적 연관이 없습니다.", "Venue": "", "Project page": ""} 
+{"Relevancy score": 1, "Novelty score": 3, "Priority": "Low", "Reasons for match": "바이오메디컬 LLM 정렬과 능력 통합에 관한 연구로 도메인 NLP에 집중되어 3D Vision·diffusion 관련성은 거의 없습니다.", "Venue": "", "Project page": ""}

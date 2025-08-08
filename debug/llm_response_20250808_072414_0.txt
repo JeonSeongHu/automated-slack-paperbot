@@ -1,0 +1,14 @@
+{"Relevancy score": 4, "Novelty score": 5, "Priority": "Low", "Reasons for match": "이 논문은 T2I 모델에 대한 적대적 공격에 대해 다루고 있으나, 3D 비전이나 컴퓨터 비전 분야와의 연관성은 적습니다.", "Venue": "ICCV2025", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 모바일 GUI 에이전트와 관련된 내용으로, 3D 비전이나 생성 모델과는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 3, "Novelty score": 4, "Priority": "Low", "Reasons for match": "이 연구는 LLM 기반 추천 시스템의 개인 정보 보호 문제를 탐구하지만, 3D 비전 또는 컴퓨터 비전과는 관련이 없습니다.", "Venue": "ACM RecSys 2025", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 부동산 관련 사건을 식별하기 위한 시스템을 다루고 있으며, 3D 비전과 관련이 없습니다.", "Venue": "ASONAM 2025", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 LLM의 대표성 편향을 분석하는 내용을 다루고 있어, 3D 비전과는 관련이 없습니다.", "Venue": "AIES 2025", "Project page": "this URL"}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 연구는 AI 위험에 대한 인식 개선을 위한 프로토콜을 제안하고 있으나, 3D 또는 컴퓨터 비전과는 연관성이 미미합니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "현 고에너지 이론에 대한 LLM 모델을 통한 연구로, 3D 비전 분야와는 관련이 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 논문은 미국 건강 보험 관련 텍스트 수집 및 분석을 다루고 있어, 3D 비전과 무관한 주제입니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 2, "Novelty score": 3, "Priority": "Low", "Reasons for match": "농업 질문 응답 시스템에 대한 연구이나, 3D 비전과 직접적인 관련은 없습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 3, "Novelty score": 4, "Priority": "Low", "Reasons for match": "이 연구는 다중 모달 비디오 감정 인식을 다루고 있으나, 3D 비전 또는 생성 모델과는 관련이 적습니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 6, "Novelty score": 7, "Priority": "Skim", "Reasons for match": "이 논문은 LLM 추론 효율성을 향상시키기 위한 계층적 검증 구조를 제안하고 있으나, 3D 비전과의 관련성은 낮습니다.", "Venue": "ICDSNE 2025", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "위키피디아 업데이트를 위한 LLM 에이전트를 제안하는 논문으로, 3D 비전과는 무관합니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 2, "Priority": "Low", "Reasons for match": "의료 영상에서의 추론을 다루고 있으나, 3D 비전 분야와의 관계가 미약합니다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 5, "Novelty score": 6, "Priority": "Skim", "Reasons for match": "이 논문은 텍스트에서 이미지로의 생성에서 일관성을 유지하는 기술을 다루고 있으며, 3D 비전 및 생성 모델 관련하여 참고

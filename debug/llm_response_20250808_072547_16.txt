@@ -1,0 +1,11 @@
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 시맨틱 통신과 관련이 있지만 3D 비전이나 컴퓨터 비전과는 관련이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 LLM 모델의 편집에 대한 내용을 다루고 있으며 3D 비전과의 관련성이 낮다.", "Venue": "ECAI 2025", "Project page": "this https URL"}
+{"Relevancy score": 2, "Novelty score": 2, "Priority": "Low", "Reasons for match": "이 연구는 지리공간 문제 해결을 위한 딥러닝 모델에 대한 것으로, 3D 비전, SLAM 등의 분야와는 큰 연결이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 도시 교통 시스템에 관한 데이터 분석이며 3D 비전과 관련이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 대규모 언어 모델의 통신 효율성에 관한 연구로 3D 비전과 직접적인 관련이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 3, "Novelty score": 3, "Priority": "Low", "Reasons for match": "이 논문은 이미지 품질 평가에 관한 것이지만, 3D 비전 분야와는 관계가 적다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 기침 소리 분석을 위한 AI 시스템 개발에 관한 건으로 3D 비전과의 연결성이 낮다.", "Venue": "ISWC", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 AI 시스템의 법적 및 윤리적 문제에 대한 연구로, 3D 비전과는 관련이 없다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 다중 에이전트 경로 찾기에 대한 것으로, 3D 비전이나 관련 기술을 다루고 있지 않다.", "Venue": "", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 논문은 음악 감정 인식 모델의 견고성에 대한 비교 연구로, 3D 비전과 관련성이 낮다.", "Venue": "SMC-25", "Project page": ""}
+{"Relevancy score": 1, "Novelty score": 1, "Priority": "Low", "Reasons for match": "이 연구는 토양 수평 분류와 관련된 것으로, 3D 비전과의 직접적인 연결이 없다.", "Venue": "", "Project page": ""}
