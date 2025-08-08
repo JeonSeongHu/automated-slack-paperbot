@@ -7,3 +7,4 @@ pytz==2023.3
 sendgrid==6.10.0
 tqdm==4.65.0
 slack_sdk==3.36.0
+jsonschema
