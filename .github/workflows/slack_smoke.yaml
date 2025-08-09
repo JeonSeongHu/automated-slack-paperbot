@@ -21,7 +21,7 @@ jobs:
       - name: Send Slack smoke message
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
-          SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
+          SLACK_CHANNEL: ${{ vars.SLACK_CHANNEL }}
         run: |
           python src/slack_smoke.py
 
