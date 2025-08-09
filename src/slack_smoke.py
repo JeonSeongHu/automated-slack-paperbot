@@ -1,6 +1,9 @@
 from datetime import datetime
 import os
+from dotenv import load_dotenv
 from slack_sdk import WebClient
+
+load_dotenv()
 
 
 def main() -> None:
@@ -31,5 +34,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
-

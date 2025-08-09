@@ -21,12 +21,13 @@ threshold: 6
 # This can be empty, which just return a full list of papers with no judgement or filtering,
 # in whatever order arXiv responds with.
 interest: |
-  1. Computer Vision and 3D Vision: 3D reconstruction, multi-view geometry, NeRF and radiance fields, Gaussian Splatting, novel view synthesis, SLAM/SfM/pose/depth/stereo, point clouds/meshes/rendering
-  2. Vision-Language Models (VLMs): multimodal learning, vision-text understanding, visual question answering, image captioning, visual reasoning, CLIP-like models  
-  3. Novel Architectures: new neural network designs, attention mechanisms, transformers for vision, efficient architectures, model compression
-  4. Representation Learning: self-supervised learning, contrastive learning, foundation models, pre-training strategies, feature learning, embedding methods
-  5. Diffusion Models: score-based generative modeling for images/3D, training/inference efficiency for CV/3D
-  6. Training Efficiency: optimization methods, distributed training, model scaling, few-shot learning, transfer learning
+  1. Diffusion Models: score-based generative modeling for images/3D/video, training/inference efficiency for CV/3D, video generation, temporal consistency
+  2. Video Understanding and Generation: video analysis, temporal modeling, video synthesis, motion estimation, video diffusion, video-language models
+  3. Computer Vision and 3D Vision: 3D reconstruction, multi-view geometry, NeRF and radiance fields, Gaussian Splatting, novel view synthesis, SLAM/SfM/pose/depth/stereo, point clouds/meshes/rendering
+  4. Vision-Language Models (VLMs): multimodal learning, vision-text understanding, visual question answering, image captioning, visual reasoning, CLIP-like models  
+  5. Novel Architectures: new neural network designs, attention mechanisms, transformers for vision, efficient architectures, model compression
+  6. Representation Learning: self-supervised learning, contrastive learning, foundation models, pre-training strategies, feature learning, embedding methods
+  7. Training Efficiency: optimization methods, distributed training, model scaling, few-shot learning, transfer learning
 
 # Prompt configuration for LLM evaluation
 prompt_config:
