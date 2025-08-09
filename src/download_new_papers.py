@@ -8,6 +8,43 @@ import json
 import datetime
 import pytz
 
+URL_IN_TEXT = re.compile(r"https?://[^\s\)\]\}\>\,\"'\u3002]+", flags=re.IGNORECASE)
+
+
+def _extract_urls(text: str):
+    if not text:
+        return []
+    # 좌/우측 붙은 구두점 정리
+    return [u.rstrip(".,);]\'\"") for u in URL_IN_TEXT.findall(text)]
+
+
+def _pick_project_url(comments: str) -> str:
+    urls = _extract_urls(comments)
+    if not urls:
+        return ""
+    best = urls[0]
+    best_score = -10
+    lower = comments.lower() if comments else ""
+    for u in urls:
+        try:
+            idx = lower.find(u.lower())
+        except Exception:
+            idx = -1
+        context = lower[max(0, idx - 24): idx + 1] if idx >= 0 else lower
+        score = 0
+        if "project" in context:
+            score += 3
+        if "page" in context:
+            score += 1
+        if "code" in context or "github" in context:
+            score += 1
+        if "arxiv.org" in u:
+            score -= 5
+        if score > best_score:
+            best_score = score
+            best = u
+    return best
+
 
 def _download_new_papers(field_abbr):
     NEW_SUB_URL = f'https://arxiv.org/list/{field_abbr}/new'  # https://arxiv.org/list/cs/new
@@ -24,7 +61,27 @@ def _download_new_papers(field_abbr):
     arxiv_base = "https://arxiv.org/abs/"
 
     assert len(dt_list) == len(dd_list)
+
+    # ensure data dir exists before using seen file
+    if not os.path.exists("./data"):
+        os.makedirs("./data")
+
+    # persistent seen ids to avoid cross-day duplicates
+    seen_path = f"./data/seen_ids_{field_abbr}.txt"
+    seen_ids = set()
+    if os.path.exists(seen_path):
+        try:
+            with open(seen_path, "r") as sf:
+                for line in sf:
+                    line = line.strip()
+                    if line:
+                        seen_ids.add(line)
+        except Exception:
+            # 파일 문제 시, 안전하게 빈 집합으로 진행
+            seen_ids = set()
+
     new_paper_list = []
+    today_ids = set()
     for i in tqdm.tqdm(range(len(dt_list))):
         paper = {}
         # Robust id / URL extraction
@@ -56,6 +113,8 @@ def _download_new_papers(field_abbr):
 
         paper['main_page'] = main_url
         paper['pdf'] = f"https://arxiv.org/pdf/{paper_id}.pdf" if paper_id else "https://arxiv.org/pdf/"
+        if paper_id:
+            paper['id'] = paper_id
 
         # Normalize helpers
         def norm_text(s: str) -> str:
@@ -86,9 +145,8 @@ def _download_new_papers(field_abbr):
             comments_raw = comments_div.text
             comments_clean = norm_text(re.sub(r"^Comments:\s*", "", comments_raw))
             paper['comments'] = comments_clean
-            # Extract first URL (project/code page) if any
-            url_match = re.search(r"https?://[^\s>]+", comments_clean)
-            paper['project_url'] = url_match.group(0) if url_match else ""
+            # Extract best-guess project URL from comments (robust)
+            paper['project_url'] = _pick_project_url(comments_clean)
         else:
             paper['comments'] = ""
             paper['project_url'] = ""
@@ -96,12 +154,22 @@ def _download_new_papers(field_abbr):
 
         print(f"DEBUG: {paper['comments']}")
 
+        # Deduplicate by arXiv id across days and within today
+        if paper_id and (paper_id in seen_ids or paper_id in today_ids):
+            continue
+        if paper_id:
+            today_ids.add(paper_id)
         new_paper_list.append(paper)
 
 
-    #  check if ./data exist, if not, create it
-    if not os.path.exists("./data"):
-        os.makedirs("./data")
+    # append today's ids to seen file
+    if today_ids:
+        try:
+            with open(seen_path, "a") as sf:
+                for pid in sorted(today_ids):
+                    sf.write(pid + "\n")
+        except Exception:
+            pass
 
     # save new_paper_list to a jsonl file, with each line as the element of a dictionary (KST)
     date = datetime.date.fromtimestamp(datetime.datetime.now(tz=pytz.timezone("Asia/Seoul")).timestamp())

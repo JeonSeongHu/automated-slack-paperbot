@@ -1,7 +1,7 @@
 from sendgrid import SendGridAPIClient
 from sendgrid.helpers.mail import Mail, Email, To, Content
 
-from datetime import date
+from datetime import date, datetime
 
 import argparse
 import yaml
@@ -329,8 +329,11 @@ if __name__ == "__main__":
             s = text.strip().replace("\n", " ")
             return s if len(s) <= limit else s[: limit - 1] + "…"
 
+        # Format header date in KST to match arXiv KST scraping window
+        import pytz
+        kst_day = datetime.now(tz=pytz.timezone("Asia/Seoul")).strftime('%Y-%m-%d')
         lines = []
-        lines.append(f"arXiv Digest (KST) - {date.today().strftime('%Y-%m-%d')}")
+        lines.append(f"arXiv Digest (KST) - {kst_day}")
         lines.append("Focus: 3D Vision, Diffusion, Deep Learning, Computer Vision")
         lines.append(f"Items: {len(picked)} (sorted by rating)")
         lines.append("")
@@ -346,7 +349,10 @@ if __name__ == "__main__":
             reason = _t(paper.get("Reasons for match", ""), 220)
             abstract = _t(paper.get("abstract", ""), 220)
             venue = paper.get("Venue", "")
-            proj = paper.get("Project page", "") or paper.get("project_url", "")
+            # Use robustly-scraped project_url only (avoid LLM hallucinated 'Project page')
+            proj_raw = paper.get("project_url", "")
+            # Clean trailing punctuation from URL if any
+            proj = proj_raw.rstrip('.,);]\'"') if proj_raw else ""
             lines.append(f"{idx}. <{link}|{title}>")
             lines.append(f"   R {rel}/10 | N {nov}/10 | P {pri} | {authors_short}")
             if venue:
